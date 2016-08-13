@@ -11,15 +11,16 @@ nvm list-remote
 
 nvm install vX.X.X
 
-You can see the different versions you have installed by typing:
+Different versions installed:
+
 nvm list
 
 nvm use v0.10.30
 
-To set this version as the default, type:
+To set this version as the default:
+
 nvm alias default v0.10.30
 
-You can verify that the install was successful using the same technique from the other sections, by typing:
 node --version
 
 yum install npm -y
