@@ -36,3 +36,14 @@ create-react-app my-app
 cd my-app/
 
 npm start
+
+***
+// Switch port 3000 to 8080
+vi /projects/my-app/node_modules/react-scripts/scripts/start.js
+
+cd my-app/
+
+npm start
+
+
+
