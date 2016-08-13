@@ -1,6 +1,7 @@
 # create-react-app
 Single page web-app frontend
 
+https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
 ****
 # Install NodeJS/NPM
 curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
