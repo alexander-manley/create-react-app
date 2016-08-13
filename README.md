@@ -26,3 +26,10 @@ node --version
 yum install npm -y
 
 ***
+
+# Create React App
+npm install -g create-react-app
+
+create-react-app my-app
+cd my-app/
+npm start
