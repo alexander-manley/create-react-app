@@ -4,6 +4,8 @@ React ecosystem: State management handled with Flux/Redux, routing is simple wit
 Single page web-app frontend
 
 https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
+
+https://facebook.github.io/react/docs/thinking-in-react.html
 ****
 # Install NodeJS/NPM
 curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
