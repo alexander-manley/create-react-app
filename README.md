@@ -1,3 +1,5 @@
+React ecosystem: State management handled with Flux/Redux, routing is simple with React Router, you can declare dependencies with Relay & GraphQL, and you can “learn once, write anywhere” with React Native.
+
 # create-react-app
 Single page web-app frontend
 
